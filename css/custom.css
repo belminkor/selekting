@@ -1,0 +1,19 @@
+.jeste-na-stanju {
+	color: #666666 !important;	
+}
+
+.jeste-na-stanju i {
+	color: green !important;
+}
+
+.nije-na-stanju {
+	color: #666666 !important;	
+}
+
+.nije-na-stanju i {
+	color: red !important;
+}
+
+.kontakt-navbar-href {
+	color: white;
+}
